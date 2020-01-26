@@ -1,0 +1,75 @@
+
+.body {
+    font-family: 'Raleway', Arial, sans-serif;
+    font-size: 100%;
+    font-weight: normal;
+    
+}
+.wrapper {
+    width: calc(100%-48%);
+    display: block;
+    color: #626262;
+}
+.page-header a {
+background: transparent;
+align-items: center;
+text-decoration: none;
+color:#626262; 
+text-transform: uppercase; 
+
+}
+
+a:hover {
+    color: #03a9f4;
+}
+
+.menu-item {
+    text-align: center;
+    list-style: none;
+    color: #626262;
+
+}
+
+.menu-top {
+    display: inline-block;
+    font-weight: 400;
+    margin-right: 120px;
+    
+   
+}
+.text {
+    color: #b4ad9e;
+    font-family: 'Myriad Pro', Arial, sans-serif;
+    text-transform: uppercase; 
+}
+
+h2 {
+    color: #626262;
+   
+    font-size: 30px;
+    font-weight: 400;
+}
+.btn {
+    display: block;
+    margin: 46px auto 0;
+    font-size: 20px;
+}
+
+p {
+    color: #626262;
+ }
+.item-list {
+    
+    display: inline-block;
+    vertical-align: top;
+    width: 480px;
+    margin-left: 50px;
+    padding: 30px;
+}
+
+    
+
+
+
+
+    
