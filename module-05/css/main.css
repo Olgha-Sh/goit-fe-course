@@ -236,21 +236,21 @@ body {
     content: '';
     width: 26px;
     height: 25px;
-    background-image: url("../img/icon-like.png");
+    background-image: url(../img/icon-like.png);
 }
 .arrows::before {
     display: inline-block;
     content: '';
     width: 26px;
     height: 25px;
-    background-image: url("../img/icon-share.png");
+    background-image: url(../img/icon.png);
 }
 .clock::before {
     display: inline-block;
     content: '';
     width: 26px;
     height: 25px;
-    background-image: url("../img/icon-time.png");
+    background-image: url(../img/icon-time.png);
 }
 .add-to-cart {
     height: 50px;
