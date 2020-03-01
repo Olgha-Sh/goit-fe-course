@@ -7,6 +7,7 @@ html {
     box-sizing: inherit;
   }
   body {
+    margin: 0 auto;
     font-family: var(--font-all-content), sans-serif;
     font-size: 14px;
     color: var(--color-content);
@@ -32,9 +33,6 @@ html {
     border-radius: 20px;
     cursor: pointer;
     outline: none;
-  }
-  .active {
-    border: 2px solid rgb(255, 255, 255);
   }
   .page-wrapper {
     height: 100vh;
