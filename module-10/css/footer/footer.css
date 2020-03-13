@@ -43,8 +43,11 @@
   padding-left: 2px;
   color: var(--bcg-color-decor);
   font-style: normal;
+  color: black;
 }
-
+.footer-addres__link:hover {
+  color: #f38181;
+}
 .footer-input {
   display: -webkit-box;
   display: -ms-flexbox;
