@@ -43,7 +43,7 @@
   padding-left: 2px;
   color: var(--bcg-color-decor);
   font-style: normal;
-  color: black;
+  color: #333333;
 }
 .footer-addres__link:hover {
   color: #f38181;
