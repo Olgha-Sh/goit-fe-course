@@ -20,7 +20,7 @@
   transition: box-shadow 200ms linear, -webkit-box-shadow 200ms linear;
 }
 
-.team-content__item:hover {
+/* .team-content__item:hover {
   -webkit-box-shadow: 5px 5px 10px var(--color-shadow),
     -5px -5px 10px var(--color-shadow), -5px 5px 10px var(--color-shadow),
     5px -5px 10px var(--color-shadow);
@@ -28,7 +28,7 @@
     -5px -5px 10px var(--color-shadow), -5px 5px 10px var(--color-shadow),
     5px -5px 10px var(--color-shadow);
   border-radius: 5px;
-}
+} */
 
 .team-content__item:hover .team-content__hover {
   opacity: 1;
@@ -54,7 +54,6 @@
   text-transform: capitalize;
 }
 
-
 .team-content__hover {
   position: absolute;
   top: -10px;
@@ -79,8 +78,8 @@
   opacity: 0;
   -webkit-transition: opacity 200ms linear;
   -o-transition: opacity 200ms linear;
-  transition: opacity 200ms linear;
-}
+  transition: opacity 200ms linear; 
+} 
 
 .team-content__hover--matthew {
   background-image: -webkit-gradient(
